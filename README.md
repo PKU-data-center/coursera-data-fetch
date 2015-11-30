@@ -42,3 +42,7 @@ using coursera fetch courses, partners and instructors.
 	domainTypes: Array[DomainType] - Domains (categories) and sub-domains associated with the course.
 	
 	categories: Array[String] - [Deprecated, see domains] The related categories in our old categories system.
+	
+	
+# Add Kehan course fetch
+just fetch kehan coursea data
